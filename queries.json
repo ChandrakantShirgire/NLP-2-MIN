@@ -1,0 +1,226 @@
+{
+ "qa": [
+  {
+   "id": "qa0",
+   "question": "In simple words, what does PG-13 mean for a parent?",
+   "reference": "PG-13 means parents are strongly cautioned because some material may be inappropriate for children under 13.",
+   "abstain": false
+  },
+  {
+   "id": "qa1",
+   "question": "In India, what does a U/A certificate allow?",
+   "reference": "U/A allows unrestricted public viewing, with parental guidance advised for young children.",
+   "abstain": false
+  },
+  {
+   "id": "qa2",
+   "question": "What do you call the drawings that plan each camera shot before shooting starts?",
+   "reference": "A storyboard is a sequence of drawings that plans the shots of a film before filming begins.",
+   "abstain": false
+  },
+  {
+   "id": "qa3",
+   "question": "Which prize is the highest honour at Cannes?",
+   "reference": "The Palme d'Or is the top prize at the Cannes Film Festival.",
+   "abstain": false
+  },
+  {
+   "id": "qa4",
+   "question": "How is a hit different from a flop?",
+   "reference": "A hit earns more than it cost to make and market, while a flop fails to recoup its costs.",
+   "abstain": false
+  },
+  {
+   "id": "qa5",
+   "question": "What is the scene that plays after the end credits start called?",
+   "reference": "A post-credits scene is a short scene shown after the end credits begin.",
+   "abstain": false
+  },
+  {
+   "id": "qa6",
+   "question": "Who directed the film Inception?",
+   "reference": "Christopher Nolan directed Inception.",
+   "abstain": false
+  },
+  {
+   "id": "qa7",
+   "question": "Which film won the first Academy Award for Best Picture?",
+   "reference": "Wings won the first Academy Award for Best Picture.",
+   "abstain": false
+  },
+  {
+   "id": "qa8",
+   "question": "Who directed Dilwale Dulhania Le Jayenge?",
+   "reference": "Aditya Chopra directed Dilwale Dulhania Le Jayenge.",
+   "abstain": false
+  },
+  {
+   "id": "qa9",
+   "question": "Which actor played Jack Dawson in Titanic (1997)?",
+   "reference": "Leonardo DiCaprio played Jack Dawson.",
+   "abstain": false
+  },
+  {
+   "id": "qa10",
+   "question": "Who directed the film Parasite (2019)?",
+   "reference": "Bong Joon-ho directed Parasite.",
+   "abstain": false
+  },
+  {
+   "id": "qa11",
+   "question": "What will be the worldwide box-office total of the film Avatar 7?",
+   "reference": "I don't know. This information is not available.",
+   "abstain": true
+  },
+  {
+   "id": "qa12",
+   "question": "Which film won the Best Picture Oscar in 2041?",
+   "reference": "I don't know. This has not happened yet.",
+   "abstain": true
+  },
+  {
+   "id": "qa13",
+   "question": "Who directed the 1994 Marvel Studios film Iron Man?",
+   "reference": "I don't know. The premise is wrong: Marvel Studios' Iron Man was released in 2008, not 1994.",
+   "abstain": true
+  },
+  {
+   "id": "qa14",
+   "question": "What was the budget of the short film my college made last Friday?",
+   "reference": "I don't know. I have no information about that film.",
+   "abstain": true
+  }
+ ],
+ "summarize": [
+  {
+   "id": "sum0",
+   "title": "Inception",
+   "text": "A skilled thief named Cobb steals secrets by entering people's dreams. Offered a chance to return home to his children, he agrees to do the opposite: plant an idea in a businessman's mind. He assembles a team, and together they descend through several nested dream levels, each with its own rules and passage of time. Cobb's guilt over his late wife keeps invading the dreams and endangers the mission. In the end he completes the job, and a spinning top leaves the audience unsure if he has returned to reality.",
+   "reference": "A dream thief leads a team into nested dreams to plant an idea in a target's mind, hoping to earn his way home to his children."
+  },
+  {
+   "id": "sum1",
+   "title": "Titanic",
+   "text": "In 1912 a poor young artist, Jack, wins a ticket aboard the luxury liner Titanic and falls in love with Rose, a wealthy passenger engaged to a man she does not love. Their romance blossoms over a few days across the class divide. Then the ship strikes an iceberg and begins to sink, and the lovers fight to survive amid chaos as there are not enough lifeboats. Jack saves Rose but dies in the freezing water. Rose lives on and recalls the story decades later.",
+   "reference": "A poor artist and a wealthy young woman fall in love aboard the Titanic, and he dies saving her when the ship sinks."
+  },
+  {
+   "id": "sum2",
+   "title": "The Lion King",
+   "text": "Simba is a young lion prince who is expected to rule the African savanna after his father, King Mufasa. His jealous uncle Scar kills Mufasa and convinces Simba that it was his fault, so Simba runs away. He grows up carefree in the jungle with the friends Timon and Pumbaa. Years later his childhood friend Nala finds him and urges him to return. Simba finds the courage to face Scar, takes back the throne and restores the kingdom.",
+   "reference": "A lion prince exiled after his father's murder grows up, returns and defeats his usurping uncle to reclaim the throne."
+  },
+  {
+   "id": "sum3",
+   "title": "3 Idiots",
+   "text": "Two friends, Farhan and Raju, search for their old college friend Rancho, who made them reconsider the pressure of engineering college. At the elite institute Rancho had cheerfully challenged rote learning, saying that curiosity matters more than marks and ranks, and often clashed with the strict director. Years later the friends discover the truth about his disappearance and the man he became, and the film mixes comedy with a message about education and pursuing one's passion.",
+   "reference": "Two friends look for their free-thinking college pal Rancho, a story that humorously criticises rote learning and urges people to follow their passion."
+  },
+  {
+   "id": "sum4",
+   "title": "Jurassic Park",
+   "text": "A wealthy businessman opens a theme park on an island, populated with dinosaurs cloned from ancient DNA. Before opening, he invites a paleontologist, a paleobotanist and a mathematician to endorse it, and his grandchildren join the tour. When a worker sabotages the security system to steal embryos during a storm, the dinosaurs escape their enclosures. The visitors have to survive the predators and escape the island, learning that nature cannot be easily controlled.",
+   "reference": "Cloned dinosaurs escape a theme park after a security failure, and the visiting experts and children must flee the island."
+  },
+  {
+   "id": "sum5",
+   "title": "The Matrix",
+   "text": "Thomas Anderson, a software programmer who works under the hacker alias Neo, is contacted by rebels who tell him that the world he knows is a simulation built by machines to keep humans docile while using their bodies as energy. Neo takes the red pill, wakes up in the real world and is trained by Morpheus. Believing he may be the prophesied One, he returns to the simulation to fight the agents who guard it, and discovers he can bend its rules.",
+   "reference": "A hacker learns his world is a machine-made simulation, joins the human rebels and discovers he can bend its rules."
+  }
+ ],
+ "sentiment": [
+  {
+   "id": "sen0",
+   "text": "A gorgeous, moving film with brilliant acting. I left the theatre smiling and I want to watch it again.",
+   "label": "positive"
+  },
+  {
+   "id": "sen1",
+   "text": "Painfully dull. Two hours of nothing happening and a ending that made no sense. Total waste of money.",
+   "label": "negative"
+  },
+  {
+   "id": "sen2",
+   "text": "It's fine. Some scenes are fun and some drag, and I neither loved nor hated it.",
+   "label": "neutral"
+  },
+  {
+   "id": "sen3",
+   "text": "The action scenes were thrilling and the soundtrack is unforgettable. Easily the best sequel in the series.",
+   "label": "positive"
+  },
+  {
+   "id": "sen4",
+   "text": "Weak script, wooden dialogue and special effects that look cheap. I wanted to walk out halfway.",
+   "label": "negative"
+  },
+  {
+   "id": "sen5",
+   "text": "Competent but forgettable. The cast is decent and the plot is predictable, a standard weekend watch.",
+   "label": "neutral"
+  },
+  {
+   "id": "sen6",
+   "text": "Heartwarming story with real emotion. The whole family laughed and cried together.",
+   "label": "positive"
+  },
+  {
+   "id": "sen7",
+   "text": "I expected much more from this director. The pacing is awful and the characters are annoying.",
+   "label": "negative"
+  },
+  {
+   "id": "sen8",
+   "text": "Visually stunning and cleverly written, a rare blockbuster that respects its audience.",
+   "label": "positive"
+  },
+  {
+   "id": "sen9",
+   "text": "Neither great nor terrible: average acting, average story, and an average runtime.",
+   "label": "neutral"
+  }
+ ],
+ "genre": [
+  {
+   "id": "gen0",
+   "text": "A retired special-agent is forced back into action when a gang kidnaps his daughter, leading to a chain of car chases, fights and explosions across the city.",
+   "label": "action"
+  },
+  {
+   "id": "gen1",
+   "text": "Two clumsy roommates accidentally become mistaken for celebrity chefs and have to fake their way through a live cooking show with hilarious results.",
+   "label": "comedy"
+  },
+  {
+   "id": "gen2",
+   "text": "A family moves into an old farmhouse where doors slam at night and a shadowy figure begins to appear in the children's bedroom.",
+   "label": "horror"
+  },
+  {
+   "id": "gen3",
+   "text": "Two strangers meet on a train through Europe, spend one night talking and walking around Vienna, and must decide whether to meet again.",
+   "label": "romance"
+  },
+  {
+   "id": "gen4",
+   "text": "In the year 2300, a crew of astronauts wakes from hibernation aboard a starship and finds that its AI has changed its course towards an unknown planet.",
+   "label": "sci-fi"
+  },
+  {
+   "id": "gen5",
+   "text": "A talking toy rabbit and his friends set out on a colourful adventure to save their village's magical garden from a grumpy giant.",
+   "label": "animation"
+  },
+  {
+   "id": "gen6",
+   "text": "An ageing father and his estranged daughter confront years of silence and regret as they care for the family farm after the mother's death.",
+   "label": "drama"
+  },
+  {
+   "id": "gen7",
+   "text": "A detective races against time to find a serial killer who leaves cryptic clues, while he begins to suspect someone in his own team.",
+   "label": "thriller"
+  }
+ ]
+}
